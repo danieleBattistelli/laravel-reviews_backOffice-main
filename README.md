@@ -1,7 +1,7 @@
 # Laravel Reviews BackOffice API
 
 Benvenuto nel progetto **Laravel Reviews BackOffice**!  
-Questa API rappresenta il back end della repository GitHub [BoolReviews](https://github.com/tuo-utente/BoolReviews) e permette la gestione di recensioni tramite un backoffice sviluppato in Laravel.
+Questa API rappresenta il back end della repository GitHub [BoolReviews](https://github.com/danieleBattistelli/boolReviews-main) e permette la gestione di recensioni tramite un backoffice sviluppato in Laravel.
 
 ## 🚀 Funzionalità principali
 
